@@ -47,11 +47,11 @@ Thank you for sharing your work with the community! This is a great opportunity 
 
 ---
 
-### [Your Name]
+### Peace Kipsang
 
-- **Blog Post:** [Blog Post](insert_link_here)
-- **GitHub Repository:** [GitHub Repo](insert_link_here)
-- **Social Media Profile (Optional):** [Social Media Profile](insert_link_here)
+- **Blog Post:** [Peace' Day 1 in Web Development](https://github.com/P-eac-e/SES-Web-Mentorship/blob/main/0x01_Introduction-to-the-internet/README.md)
+- **GitHub Repository:** [SES-Web-Mentorship](https://github.com/P-eac-e/SES-Web-Mentorship)
+- **Social Media Profile (Optional):** [LinkedIn](www.linkedin.com/in/peacekipsang)
 
 ---
 
